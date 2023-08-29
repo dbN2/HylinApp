@@ -4,7 +4,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.springframework.security.test.web.reactive.server.SecurityMockServerConfigurers.csrf;
 
 import com.hylin.app.IntegrationTest;
-import com.hylin.app.config.Constants;
 import com.hylin.app.domain.User;
 import com.hylin.app.repository.EntityManager;
 import com.hylin.app.repository.UserRepository;

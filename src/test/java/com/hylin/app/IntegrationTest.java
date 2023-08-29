@@ -1,6 +1,5 @@
 package com.hylin.app;
 
-import com.hylin.app.HylinApp;
 import com.hylin.app.config.AsyncSyncConfiguration;
 import com.hylin.app.config.EmbeddedSQL;
 import java.lang.annotation.ElementType;

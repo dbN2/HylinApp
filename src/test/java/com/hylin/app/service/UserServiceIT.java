@@ -6,7 +6,6 @@ import com.hylin.app.IntegrationTest;
 import com.hylin.app.config.Constants;
 import com.hylin.app.domain.User;
 import com.hylin.app.repository.UserRepository;
-import com.hylin.app.service.dto.AdminUserDTO;
 import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
@@ -17,7 +16,6 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.PageRequest;
 import tech.jhipster.security.RandomUtil;
 
 /**

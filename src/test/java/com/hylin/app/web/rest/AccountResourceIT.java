@@ -13,7 +13,6 @@ import com.hylin.app.security.AuthoritiesConstants;
 import com.hylin.app.service.UserService;
 import com.hylin.app.service.dto.AdminUserDTO;
 import com.hylin.app.service.dto.PasswordChangeDTO;
-import com.hylin.app.service.dto.UserDTO;
 import com.hylin.app.web.rest.vm.KeyAndPasswordVM;
 import com.hylin.app.web.rest.vm.ManagedUserVM;
 import java.time.Instant;
